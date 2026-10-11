@@ -13,7 +13,7 @@ se puede deshacer con un clic (o cerrando el juego).
 |Option|What it does|
 |-|-|
 |Read speed (max 16)|Shortens the time between CD sectors. Audio (CDDA/XA) automatically keeps its original timing, so music is not sped up.|
-|Seek / startup|Shortens seek and read-start delays (can go much higher than read speed).|
+|Seek / startup|Shortens seek and read-start delays (can go much higher than read speed, needs more testing).|
 |Disable rewind|Disables the rewind feature (keyboard and gamepad).|
 |Auto-apply|Applies the patch automatically whenever the game opens.|
 |Restore original|Reverts everything without closing the game.|
